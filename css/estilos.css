@@ -469,10 +469,11 @@ align-items:center;
 
 .portada{
     width:100%;
-    height:100vh; /* Ocupa toda la pantalla */
-    background: url("../img/Sobre.jpeg") center center no-repeat;
-    background-size: cover;
-    position: relative;
+    height:100vh;
+    background:url("../img/Sobre.jpeg") center center no-repeat;
+    background-size:90%;
+    background-color:#fff;
+    position:relative;
 }
 /*==========================
       FOTO ANIMADA
