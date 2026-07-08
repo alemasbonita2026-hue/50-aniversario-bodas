@@ -664,6 +664,16 @@ min-height:100vh;
     }
 
 }
+
+	@media (max-width: 768px){
+
+    body{
+        overflow-x:hidden;
+    }
+
+    .contenedorInvitacion{
+        width:100%;
+    }
 	
 	/*==========================
       CONTENEDOR
