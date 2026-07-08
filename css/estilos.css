@@ -577,7 +577,7 @@ min-height:100vh;
 	
 	.hotel{
     font-family:'Ephesis', cursive;
-    font-size:clamp(50px,8vw,100px);
+    font-size:clamp(60px,8vw,95px);
     line-height: 1;
     margin-bottom: 20px;
 }
